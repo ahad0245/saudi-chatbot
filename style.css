@@ -130,7 +130,7 @@ header h2 {
   text-align: center;
   line-height: 32px;
   align-self: flex-end;
-  background: #724ae8;
+  background: #007bff;
   border-radius: 4px;
   margin: 0 10px 7px 0;
 }
@@ -142,7 +142,7 @@ header h2 {
   max-width: 75%;
   color: #fff;
   font-size: 0.95rem;
-  background: #724ae8;
+  background: #007bff;
 }
 
 .chatbox .incoming p {
@@ -183,7 +183,7 @@ header h2 {
 
 .chat-input span {
   align-self: flex-end;
-  color: #724ae8;
+  color: #007bff;
   cursor: pointer;
   height: 55px;
   display: flex;
